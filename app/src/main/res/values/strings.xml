@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Bryancare</string>
+    <string name="personal_medical_record">Personal Medical Record</string>
+    <string name="edit">Edit</string>
+    <string name="blood_type">Blood Type</string>
+    <string name="empty">Empty</string>
+    <string name="submit_changes">Submit Changes</string>
+    <string name="height">Height</string>
+    <string name="weight">Weight</string>
+    <string name="allergies">Allergies</string>
+    <string name="no">No.</string>
+    <string name="appointment_details">Appointment Details</string>
+    <string-array name="queues_array">
+        <item>Average Wait Time</item>
+        <item>General Ailments</item>
+        <item>Medical Tests</item>
+        <item>Medical Review</item>
+        <item>Dental</item>
+        <item>Others</item>
+    </string-array>
+    <string-array name="purpose_array">
+        <item>General Ailments</item>
+        <item>Medical Tests</item>
+        <item>Medical Review</item>
+        <item>Dental</item>
+        <item>Others</item>
+    </string-array>
+</resources>
